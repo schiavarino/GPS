@@ -1,0 +1,5 @@
+c:\users\sistemas\documents\visual studio 2013\Projects\PruebaASP_Boostrap\PruebaASP_Boostrap\bin\PruebaASP_Boostrap.dll.config
+c:\users\sistemas\documents\visual studio 2013\Projects\PruebaASP_Boostrap\PruebaASP_Boostrap\bin\PruebaASP_Boostrap.dll
+c:\users\sistemas\documents\visual studio 2013\Projects\PruebaASP_Boostrap\PruebaASP_Boostrap\bin\PruebaASP_Boostrap.pdb
+c:\users\sistemas\documents\visual studio 2013\Projects\PruebaASP_Boostrap\PruebaASP_Boostrap\obj\Release\PruebaASP_Boostrap.dll
+c:\users\sistemas\documents\visual studio 2013\Projects\PruebaASP_Boostrap\PruebaASP_Boostrap\obj\Release\PruebaASP_Boostrap.pdb
