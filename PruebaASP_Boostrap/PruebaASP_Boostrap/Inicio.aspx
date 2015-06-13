@@ -27,7 +27,7 @@
     <div class="carousel-inner" role="listbox">
         <div class="item active"/>
         <img src="Imagenes/2000px-Star_Wars_Logo.svg.png" alt="..."/>
-        <div class="carousel-caption">   HOLA!!!!!  </div>
+        <div class="carousel-caption">   chau!!!!!  </div>
         </div>
     
     <div class="item">
