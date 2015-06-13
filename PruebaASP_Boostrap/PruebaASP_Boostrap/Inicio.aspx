@@ -37,7 +37,7 @@
     
      <div class="item">  
       <img  src="Imagenes/2000px-Star_Wars_Logo.svg.png" alt="..."/>
-      <div class="carousel-caption">  Chau------   hola de marcos!!! </div>
+      <div class="carousel-caption">  Chau------   hola de marcos!!!    hola de marcos!!!77777777 </div>
      </div>
      
 
